@@ -1,5 +1,6 @@
-C:\Users\eerii\Desktop\Metaphorce\Examen diagnostico\ms-database-lib\src\main\java\com\metaphorce\databaseLib\dto\LoginUsuarioDto.java
-C:\Users\eerii\Desktop\Metaphorce\Examen diagnostico\ms-database-lib\src\main\java\com\metaphorce\databaseLib\entity\Rol.java
-C:\Users\eerii\Desktop\Metaphorce\Examen diagnostico\ms-database-lib\src\main\java\com\metaphorce\databaseLib\entity\Usuario.java
-C:\Users\eerii\Desktop\Metaphorce\Examen diagnostico\ms-database-lib\src\main\java\com\metaphorce\databaseLib\dto\RegistroUsuarioDto.java
-C:\Users\eerii\Desktop\Metaphorce\Examen diagnostico\ms-database-lib\src\main\java\com\metaphorce\databaseLib\repository\UsuarioRepository.java
+C:\Users\eerii\Desktop\Metaphorce\Tercer Ejercicio\ms-database-lib\src\main\java\com\metaphorce\databaseLib\exceptions\CustomException.java
+C:\Users\eerii\Desktop\Metaphorce\Tercer Ejercicio\ms-database-lib\src\main\java\com\metaphorce\databaseLib\models\User.java
+C:\Users\eerii\Desktop\Metaphorce\Tercer Ejercicio\ms-database-lib\src\main\java\com\metaphorce\databaseLib\dto\UserRequest.java
+C:\Users\eerii\Desktop\Metaphorce\Tercer Ejercicio\ms-database-lib\src\main\java\com\metaphorce\databaseLib\dto\AuthRequest.java
+C:\Users\eerii\Desktop\Metaphorce\Tercer Ejercicio\ms-database-lib\src\main\java\com\metaphorce\databaseLib\dto\UserResponse.java
+C:\Users\eerii\Desktop\Metaphorce\Tercer Ejercicio\ms-database-lib\src\main\java\com\metaphorce\databaseLib\dto\UserDto.java
