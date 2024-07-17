@@ -1,0 +1,25 @@
+# IDE/Editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Compiled bytecode
+/target/
+/build/
+
+# Logs
+/logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific
+mvnw
+.mvn/
+
+# Spring Boot specific
+spring-boot-starter-*.jar
+!spring-boot-starter-*.jar.original
