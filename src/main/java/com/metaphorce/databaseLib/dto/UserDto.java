@@ -5,15 +5,15 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@AllArgsConstructor
-@NoArgsConstructor
-@Builder
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class UserDto {
-
-    private String id;
-
+    private Long id;
     private String name;
-
+    private String lastname;
     private String email;
+    private String phone;
+    private Integer age;
+    private String role;
 }
